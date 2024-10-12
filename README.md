@@ -55,7 +55,6 @@ Este projeto foi inspirado no artigo da **Baeldung** sobre AspectJ, que fornece 
 Quando o projeto é executado, você verá a seguinte saída no console (no NetBeans):
 
 ```plaintext
-Instanciando class Account :
 09:48:35.156 [main] INFO posgrad.utfpr.edu.br.exemploaspectj.AccountAspect --  [AspectJ] Balance before withdrawal: 20
 09:48:35.161 [main] INFO posgrad.utfpr.edu.br.exemploaspectj.AccountAspect --  [AspectJ] Withdraw amount: 5
 09:48:35.161 [main] INFO posgrad.utfpr.edu.br.exemploaspectj.AccountAspect --  [AspectJ] Balance after withdrawal : 15
